@@ -1,5 +1,8 @@
 # marcilleParser
 
+![GOVj76oPARA](https://github.com/sadnessFM/marcilleParser/assets/90336027/309d19a8-0657-4af4-aec0-8821f05759c8)
+
+
 этот маленький глупый питон скрипт позволяет пропарсить группу в ВК (https://vk.com/marcille) и сохранить картинки из нее на комп.
 
 ## требования
