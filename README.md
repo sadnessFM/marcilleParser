@@ -13,8 +13,8 @@ You'll need a:
 - `requests` library (`pip install requests`)
 
 ## How to use
-
-1. Replace the `access_token` variable with your VKontakte API access token. You can obtain it from https://vkhost.github.io/
-2. Enter how many of Marcille's cute faces you want
-3. ?????
-4. PROFIT!!!
+1. use `pip install -r requirements.txt` in folder where `marcille.py` is located 
+2. Replace the `access_token` variable with your VKontakte API access token. You can obtain it from https://vkhost.github.io/
+3. Enter how many of Marcille's cute faces you want
+4. ?????
+5. PROFIT!!!
